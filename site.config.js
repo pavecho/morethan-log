@@ -3,14 +3,18 @@ const CONFIG = {
   profile: {
     name: "pavecho",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "Flutter와 React로 이것저것 만듭니다.",
+    role: "Frontend Developer",
+    bio: "Flutter와 React로 이것저것",
     email: "mtsmyo415@gmail.com",
     linkedin: "",
     github: "pavecho",
     instagram: "",
   },
   projects: [
+    {
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
+    },
   ],
   // blog setting (required)
   blog: {

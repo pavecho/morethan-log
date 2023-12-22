@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    <url>
-        <loc>https://pavecho.vercel.app</loc>
-        <lastmod>2023-12-06T13:27:28+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>https://pavecho.vercel.app/about</loc>
-        <lastmod>2023-12-06T13:27:28+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://pavecho.vercel.app/localhost-with-https</loc>
-        <lastmod>2023-12-06T13:27:28+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://pavecho.vercel.app/android-key-hash</loc>
-        <lastmod>2023-12-06T13:27:28+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://pavecho.vercel.app/flutter-handshake-exception</loc>
-        <lastmod>2023-12-06T13:27:28+00:00</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.80</priority>
-    </url>
+<url><loc>https://pavecho.vercel.app</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/git-delete-incorrect-file</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/localhost-with-https2</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/morethan-log-setting</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/about</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/localhost-with-https</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/android-key-hash</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/flutter-handshake-exception</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://pavecho.vercel.app/m1-pod-install-error</loc><lastmod>2023-12-21T10:25:59.773Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
